@@ -1,4 +1,4 @@
-gitGit is a distributed version control system.
+asdagitGit is a distributed version control system.
 Git is free 
 Git has a mutable index called stage.
 Git tracks changes.
@@ -11,4 +11,8 @@ hello2 master
 asdasdasdasdas
 xiugaixiugai
 m1 update
+<<<<<<< HEAD
 sdfsasdasw
+=======
+
+>>>>>>> 169ed60e00fd057561761898409c2c7f977c22e8
